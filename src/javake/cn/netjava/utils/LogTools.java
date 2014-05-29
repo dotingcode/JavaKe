@@ -5,7 +5,6 @@ import java.util.Date;
 
 /**
  * 系统日志记录工具类
- * @author 蓝杰 www.NetJava.cn
  */
 public class LogTools {
 	private LogTools(){};//不需要创建对象,构造器private

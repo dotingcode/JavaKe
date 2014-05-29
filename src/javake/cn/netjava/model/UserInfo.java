@@ -6,7 +6,6 @@ import java.util.List;
 /**
  *JK即时通信系统 用户类定义
  *一个用户对象，包含有自己的好友分组对象队列
- * @author 蓝杰 www.NetJava.cn
  */
 public class UserInfo implements java.io.Serializable{
 	

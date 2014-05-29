@@ -1,7 +1,6 @@
 package javake.cn.netjava.msg;
 /**
  * 所有消息的父类
- * @author 蓝杰 www.NetJava.cn
  */
 public class MsgHead {
 

@@ -23,7 +23,6 @@ import javax.swing.tree.DefaultTreeModel;
  *JK即时通信系统 
  *在主界面中显示好友/分组列表的树形结构
  *并处理相关消息
- * @author 蓝杰 www.NetJava.cn
  */
 public class JKUserTree extends javax.swing.JTree{
  

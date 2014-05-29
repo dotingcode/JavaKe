@@ -20,7 +20,6 @@ import javake.cn.netjava.msg.MsgHead;
 /**
  * 服务器管管理客户处理线程,转发消息的类
  * 此类只需要提供方法调用,所以皆为静态方法
- * @author 蓝杰 www.NetJava.cn
  */
 public class ChatTools {
 	//保存处理线程的队列对象

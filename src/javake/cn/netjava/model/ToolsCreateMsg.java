@@ -22,7 +22,6 @@ import javake.cn.netjava.utils.LogTools;
 /**
  *JK即时通信系统:打包消息工具类
  *将消息对象，根据协议规约，打包为字节数组以备网络发送
- * @author 蓝杰 www.NetJava.cn
  */
 public class ToolsCreateMsg {
 	 

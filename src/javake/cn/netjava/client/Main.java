@@ -17,7 +17,6 @@ import javax.swing.text.MaskFormatter;
  * 1.客户端启动主类，显示登陆界面
  * 2.如果登陆成功，显示主界面
  * 3.提供注册功能，如果注册成功，返回登陆界面
- * @author 蓝杰 www.NetJava.cn
  */
 public class Main {
     private JFrame jf_login;//登陆界面

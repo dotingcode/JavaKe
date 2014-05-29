@@ -1,7 +1,6 @@
 package javake.cn.netjava.msg;
 /**
  *JK即时通信系统 系统所用到的常量定义
- * @author 蓝杰 www.NetJava.cn
  */
 public interface IMsgConstance {
   String serverIP="localhost";//服务器IP

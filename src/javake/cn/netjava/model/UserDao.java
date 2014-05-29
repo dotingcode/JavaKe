@@ -13,7 +13,6 @@ import javake.cn.netjava.utils.LogTools;
  
 /**
  *JK即时通信系统 数据存储模块实现
- * @author 蓝杰 www.NetJava.cn
  */
 public class UserDao {
      

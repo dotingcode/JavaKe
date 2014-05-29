@@ -5,7 +5,6 @@ import javake.cn.netjava.msg.MsgHead;
 /**
  *JK即时通信系统 
  *通信模块的消息处理监听器接口定义
- * @author 蓝杰 www.NetJava.cn
  */
 public interface IClientMsgListener {
 

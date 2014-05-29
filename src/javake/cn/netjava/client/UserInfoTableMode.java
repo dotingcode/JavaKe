@@ -12,7 +12,6 @@ import javax.swing.event.TableModelListener;
  *JK即时通信系统 显示查找到的用户信息的表模型
  *当查找结果消息从服务器返回时，用以在界面Jtable中
  *显示找到的用户信息
- * @author 蓝杰 www.NetJava.cn
  */
 public class UserInfoTableMode 
 implements javax.swing.table.TableModel{

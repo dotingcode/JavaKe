@@ -5,7 +5,6 @@ import java.util.List;
 
 /**
  *JK即时通信系统 好友分组类的定义
- * @author 蓝杰 www.NetJava.cn
  */
 public class TeamInfo implements java.io.Serializable{
 	

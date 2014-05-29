@@ -24,7 +24,6 @@ import javake.cn.netjava.utils.LogTools;
  *1.登陆，注册接口调用；
  *2.在独立线程中接收服务器消息
  *3.将接收到的消息分发给监听器对象
- * @author 蓝杰 www.NetJava.cn
  */
 public class ClientConnection extends Thread{
 	

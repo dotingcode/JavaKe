@@ -24,7 +24,6 @@ import javake.cn.netjava.utils.LogTools;
  * JK即时通信系统:
  * 处理客户机的连结对象的线程类
  * 1.登陆/注册请求,2.接收,发送消息方法封装
- * @author 蓝杰 www.NetJava.cn
  */
 public class ServerThread extends Thread{
 

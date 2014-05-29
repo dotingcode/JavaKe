@@ -8,7 +8,6 @@ import javake.cn.netjava.utils.LogTools;
 /**
  * javaKe服务器实现类
  * 创建服务器对象,启动并等待连结进入
- * @author 蓝杰 www.NetJava.cn
  */
 public class Main extends Thread{
    private int port;//服务器端口

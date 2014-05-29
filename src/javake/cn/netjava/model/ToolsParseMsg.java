@@ -22,7 +22,6 @@ import javake.cn.netjava.utils.LogTools;
 /**
  *JK即时通信系统:解包消息工具类
  *将读到的数据块，根据协议规约，解包为消息对象
- * @author 蓝杰 www.NetJava.cn
  */
 public class ToolsParseMsg {
 	/**

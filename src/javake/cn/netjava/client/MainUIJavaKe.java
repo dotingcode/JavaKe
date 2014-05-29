@@ -25,7 +25,6 @@ import javax.swing.JTable;
 * IClientMsgListener接口,当有消息到达时，主界面对象负责处理消息
 * 2.主界面通过树形组件，显示用户的好友表
 * 3.通过菜单，提供查找好友的功能
-* @author 蓝杰 www.NetJava.cn
 */
 public class MainUIJavaKe extends JFrame
 
